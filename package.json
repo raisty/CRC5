@@ -1,7 +1,7 @@
 {
-  "name": "erc820",
+  "name": "crc5",
   "version": "0.0.25",
-  "description": "ERC 820 - Pseudo-introspaection using a registry contract",
+  "description": "CRC5 - Pseudo-introspection using a registry contract",
   "main": "index.js",
   "files": [
     "artifacts",
@@ -23,14 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jbaylina/ERC820.git"
+    "url": "https://github.com/raisty/CRC5.git"
   },
   "keywords": [
     "solidity",
-    "pseudo-introspaection",
-    "ERC672",
-    "ERC820",
-    "ERC777",
+    "pseudo-introspection",
+    "CRC5",
     "smart",
     "contract",
     "reverseENS",
@@ -39,7 +37,7 @@
   "author": "Jordi Baylina",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/jbaylina/ERC820/issues"
+    "url": "https://github.com/raisty/CRC5/issues"
   },
   "homepage": "https://eips.ethereum.org/EIPS/eip-820",
   "dependencies": {
